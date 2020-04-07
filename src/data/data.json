@@ -1,0 +1,461 @@
+[
+    {
+        "idTienda": 1,
+        "urlLogo":"https://i.pinimg.com/originals/0b/31/aa/0b31aa72a62a8c67d9f9bcb008a06a98.jpg",
+        "nombreTienda": "tienda Uno",
+        "sucursales": [
+            {
+                "idSucursal": 1,
+                "nombreSucursal": "sucursal uno",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "cocina"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto dos",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "belleza"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto tres",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "alimentacion"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto cuatro",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "granos"
+                    },
+                    {
+                        "idProducto": 6,
+                        "nombre": "producto cinco",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "verdura"
+                    }
+                ]
+            },
+            {
+                "idSucursal": 2,
+                "nombreSucursal": "sucursal dos",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "panaderia"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "ropa"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "pañaleria"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            },
+            {
+                "idSucursal": 3,
+                "nombreSucursal": "sucursal tres",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "panaderia"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "ropa"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "pañaleria"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "idTienda": 2,
+        "urlLogo":"https://i.pinimg.com/originals/0b/31/aa/0b31aa72a62a8c67d9f9bcb008a06a98.jpg",
+        "nombreTienda": "tienda dos",
+        "sucursales": [
+            {
+                "idSucursal": 1,
+                "nombreSucursal": "sucursal uno",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto dos",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto tres",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto cuatro",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto cinco",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            },
+            {
+                "idSucursal": 2,
+                "nombreSucursal": "sucursal dos",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idTienda": 3,
+        "urlLogo":"https://i.pinimg.com/originals/0b/31/aa/0b31aa72a62a8c67d9f9bcb008a06a98.jpg",
+        "nombreTienda": "tienda tres",
+        "sucursales": [
+            {
+                "idSucursal": 1,
+                "nombreSucursal": "sucursal uno",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto dos",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto tres",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto cuatro",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto cinco",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            },
+            {
+                "idSucursal": 2,
+                "nombreSucursal": "sucursal dos",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idTienda": 4,
+        "urlLogo":"https://i.pinimg.com/originals/0b/31/aa/0b31aa72a62a8c67d9f9bcb008a06a98.jpg",
+        "nombreTienda": "tienda cuatro",
+        "sucursales": [
+            {
+                "idSucursal": 1,
+                "nombreSucursal": "sucursal uno",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto dos",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto tres",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto cuatro",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto cinco",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    }
+                ]
+            },
+            {
+                "idSucursal": 2,
+                "nombreSucursal": "sucursal dos",
+                "productos": [
+                    {
+                        "idProducto": 1,
+                        "nombre": "producto uno",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 2,
+                        "nombre": "producto dos",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "cocina"
+                    },
+                    {
+                        "idProducto": 3,
+                        "nombre": "producto tres",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "miscelanea"
+                    },
+                    {
+                        "idProducto": 4,
+                        "nombre": "producto cuatro",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "belleza"
+                    },
+                    {
+                        "idProducto": 5,
+                        "nombre": "producto cinco",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "aseo"
+                    },
+                    {
+                        "idProducto": 6,
+                        "nombre": "producto seis",
+                        "precio": 10000,
+                        "imagen": "https://media-esp-buyviu-com.s3.amazonaws.com/products/9d71d2b27468e21f446248fdf7549161_thumb.png",
+                        "cantidadDisponible": 5,
+                        "categoria": "cocina"
+                    }
+                ]
+            }
+        ]
+    }
+]
