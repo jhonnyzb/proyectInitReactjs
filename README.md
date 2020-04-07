@@ -1,4 +1,5 @@
-# Para la ejecucion del proyecto clone el repositorio, desplacese hacia la carpeta del proyecto en su consola y ejecute el comando
+# Ejecucion del proyecto
+Para la ejecucion del proyecto clone el repositorio, desplacese hacia la carpeta del proyecto en su consola y ejecute el comando
 npm install este instalara los paquetes de node necesarios para la ejecucion (asegurese de tener instalado en su computador node js, si no es asi dirijase a la pagina de node js y siga instrucciones de instalacion), una vez instalados los paquetes ejecute el comando  npm run start el cual desplegara la aplicacion de manera local.
 
 # Descripcion breve aplicación
